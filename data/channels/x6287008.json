@@ -1,0 +1,24 @@
+{
+    "title": "Hoover",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1438367297",
+    "date_modified": "1438367326",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6287008",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Hoover",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "491226472-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "491226472-0114518405.png"
+    },
+    "transcripts": null
+}
