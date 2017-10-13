@@ -1,0 +1,15 @@
+{
+    "title": "new",
+    "baseURL": "https:\/\/gallery.test.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758166",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "test.com"
+    }
+}
